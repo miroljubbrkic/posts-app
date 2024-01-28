@@ -1,4 +1,10 @@
-# MeanCourse
+# Posts managing web application
+
+Technologies: TypeScript, MongoDB, Express, Angular, NodeJS, Angular Material
+
+I created this web application as a personal project to test my knowledge in MEAN stack.
+App is designed to manage posts with title, content and image. Not registered users can see posts from other users but they must register to be able to create, edit or delete own posts. 
+Posts are stored in nosql database, MongoDB.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
