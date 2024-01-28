@@ -16,5 +16,6 @@ Posts are stored in nosql database, MongoDB.
 ## Development server
 
 To start application run `ng serve` and `npm run start-server`.
+
 Navigate to `http://localhost:4200/`.
 
